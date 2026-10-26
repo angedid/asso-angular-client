@@ -121,3 +121,7 @@ Original code for which the copyright holder owns the relevant rights is propose
 ## Product background
 
 The product vision is based on “Smart Trade Platform — Executive Summary,” version 1.0, August 2026, by Didier Junior NKALLA EHAWE. The future capabilities described above are development goals.
+
+## Prototype
+
+![Alt text](prototype.png)
